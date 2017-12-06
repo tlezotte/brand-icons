@@ -1,0 +1,47 @@
+@font-face {
+  font-family: 'brands';
+  src:  url('fonts/brands.eot?m75kw0');
+  src:  url('fonts/brands.eot?m75kw0#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?m75kw0') format('truetype'),
+    url('fonts/brands.woff?m75kw0') format('woff'),
+    url('fonts/brands.svg?m75kw0#brands') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.brands {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'brands' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.b-pivotaltracker:before {
+  content: "\e900";
+}
+.b-statuscake:before {
+  content: "\e902";
+}
+.b-splunk:before {
+  content: "\e901";
+}
+.b-redhat:before {
+  content: "\e903";
+}
+.b-googlecloud:before {
+  content: "\e906";
+}
+.b-mailchimp:before {
+  content: "\e904";
+}
+.b-jira:before {
+  content: "\e905";
+}

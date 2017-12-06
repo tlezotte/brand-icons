@@ -1,0 +1,41 @@
+.brands {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.b-pivotaltracker {
+  width: 32px;
+  height: 32px;
+  background-position: 0 0;
+}
+.b-statuscake {
+  width: 32px;
+  height: 32px;
+  background-position: -48px 0;
+}
+.b-splunk {
+  width: 33px;
+  height: 32px;
+  background-position: -96px 0;
+}
+.b-redhat {
+  width: 32px;
+  height: 32px;
+  background-position: -144px 0;
+}
+.b-googlecloud {
+  width: 37px;
+  height: 32px;
+  background-position: -192px 0;
+}
+.b-mailchimp {
+  width: 30px;
+  height: 32px;
+  background-position: -240px 0;
+}
+.b-jira {
+  width: 31px;
+  height: 32px;
+  background-position: -288px 0;
+}
+
