@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?f1ygbw');
-  src:  url('fonts/brands.eot?f1ygbw#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?f1ygbw') format('truetype'),
-    url('fonts/brands.woff?f1ygbw') format('woff'),
-    url('fonts/brands.svg?f1ygbw#brands') format('svg');
+  src:  url('fonts/brands.eot?v4o21d');
+  src:  url('fonts/brands.eot?v4o21d#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?v4o21d') format('truetype'),
+    url('fonts/brands.woff?v4o21d') format('woff'),
+    url('fonts/brands.svg?v4o21d#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -34,14 +34,20 @@
   content: "\e901";
 }
 .b-redhat:before {
-  content: "\e903";
+  content: "\e905";
 }
 .b-googlecloud:before {
   content: "\e906";
 }
 .b-mailchimp:before {
-  content: "\e904";
+  content: "\e907";
 }
 .b-jira:before {
-  content: "\e905";
+  content: "\e908";
+}
+.b-pma:before {
+  content: "\e903";
+}
+.b-monyog:before {
+  content: "\e904";
 }

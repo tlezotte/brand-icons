@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'brands';
-  src:  url('#{$icomoon-font-path}/brands.eot?f1ygbw');
-  src:  url('#{$icomoon-font-path}/brands.eot?f1ygbw#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/brands.ttf?f1ygbw') format('truetype'),
-    url('#{$icomoon-font-path}/brands.woff?f1ygbw') format('woff'),
-    url('#{$icomoon-font-path}/brands.svg?f1ygbw#brands') format('svg');
+  src:  url('#{$icomoon-font-path}/brands.eot?v4o21d');
+  src:  url('#{$icomoon-font-path}/brands.eot?v4o21d#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/brands.ttf?v4o21d') format('truetype'),
+    url('#{$icomoon-font-path}/brands.woff?v4o21d') format('woff'),
+    url('#{$icomoon-font-path}/brands.svg?v4o21d#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -59,6 +59,16 @@
 .b-jira {
   &:before {
     content: $b-jira;
+  }
+}
+.b-pma {
+  &:before {
+    content: $b-pma;
+  }
+}
+.b-monyog {
+  &:before {
+    content: $b-monyog;
   }
 }
 
