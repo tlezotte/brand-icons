@@ -48,4 +48,19 @@
   height: 32px;
   background-position: -384px 0;
 }
+.b-mariadb {
+  width: 32px;
+  height: 32px;
+  background-position: -432px 0;
+}
+.b-mysql {
+  width: 32px;
+  height: 32px;
+  background-position: -480px 0;
+}
+.b-oracle {
+  width: 32px;
+  height: 32px;
+  background-position: -528px 0;
+}
 

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?v4o21d');
-  src:  url('fonts/brands.eot?v4o21d#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?v4o21d') format('truetype'),
-    url('fonts/brands.woff?v4o21d') format('woff'),
-    url('fonts/brands.svg?v4o21d#brands') format('svg');
+  src:  url('fonts/brands.eot?k7az09');
+  src:  url('fonts/brands.eot?k7az09#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?k7az09') format('truetype'),
+    url('fonts/brands.woff?k7az09') format('woff'),
+    url('fonts/brands.svg?k7az09#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -50,4 +50,13 @@
 }
 .b-monyog:before {
   content: "\e904";
+}
+.b-mariadb:before {
+  content: "\e909";
+}
+.b-mysql:before {
+  content: "\e90a";
+}
+.b-oracle:before {
+  content: "\e90b";
 }
