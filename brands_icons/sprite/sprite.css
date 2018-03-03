@@ -63,4 +63,39 @@
   height: 32px;
   background-position: -528px 0;
 }
+.b-solr {
+  width: 32px;
+  height: 32px;
+  background-position: -576px 0;
+}
+.b-java {
+  width: 32px;
+  height: 32px;
+  background-position: -624px 0;
+}
+.b-apache {
+  width: 18px;
+  height: 32px;
+  background-position: -672px 0;
+}
+.b-tomcat {
+  width: 32px;
+  height: 32px;
+  background-position: -720px 0;
+}
+.b-elastic {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -48px;
+}
+.b-elasticsearch {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -48px;
+}
+.b-artifactory {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -48px;
+}
 

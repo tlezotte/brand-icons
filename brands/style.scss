@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'brands';
-  src:  url('#{$icomoon-font-path}/brands.eot?oen9lg');
-  src:  url('#{$icomoon-font-path}/brands.eot?oen9lg#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/brands.ttf?oen9lg') format('truetype'),
-    url('#{$icomoon-font-path}/brands.woff?oen9lg') format('woff'),
-    url('#{$icomoon-font-path}/brands.svg?oen9lg#brands') format('svg');
+  src:  url('#{$icomoon-font-path}/brands.eot?kpusk9');
+  src:  url('#{$icomoon-font-path}/brands.eot?kpusk9#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/brands.ttf?kpusk9') format('truetype'),
+    url('#{$icomoon-font-path}/brands.woff?kpusk9') format('woff'),
+    url('#{$icomoon-font-path}/brands.svg?kpusk9#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -26,64 +26,113 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+@function unicode($str) {
+  @return unquote("\"") + $str + unquote("\"");
+}
+
 .b-pivotaltracker {
   &:before {
-    content: $b-pivotaltracker; 
+    content: unicode($b-pivotaltracker); 
   }
 }
 .b-statuscake {
   &:before {
-    content: $b-statuscake; 
+    content: unicode($b-statuscake); 
   }
 }
 .b-splunk {
   &:before {
-    content: $b-splunk; 
+    content: unicode($b-splunk); 
   }
 }
 .b-redhat {
   &:before {
-    content: $b-redhat; 
+    content: unicode($b-redhat); 
   }
 }
 .b-googlecloud {
   &:before {
-    content: $b-googlecloud; 
+    content: unicode($b-googlecloud); 
   }
 }
 .b-mailchimp {
   &:before {
-    content: $b-mailchimp; 
+    content: unicode($b-mailchimp); 
   }
 }
 .b-jira {
   &:before {
-    content: $b-jira; 
+    content: unicode($b-jira); 
   }
 }
 .b-pma {
   &:before {
-    content: $b-pma; 
+    content: unicode($b-pma); 
   }
 }
 .b-monyog {
   &:before {
-    content: $b-monyog; 
+    content: unicode($b-monyog); 
   }
 }
 .b-mariadb {
   &:before {
-    content: $b-mariadb; 
+    content: unicode($b-mariadb); 
   }
 }
 .b-mysql {
   &:before {
-    content: $b-mysql; 
+    content: unicode($b-mysql); 
   }
 }
 .b-oracle {
   &:before {
-    content: $b-oracle; 
+    content: unicode($b-oracle); 
+  }
+}
+.b-solr {
+  &:before {
+    content: unicode($b-solr); 
+  }
+}
+.b-java {
+  &:before {
+    content: unicode($b-java); 
+  }
+}
+.b-jdk {
+  &:before {
+    content: unicode($b-jdk); 
+  }
+}
+.b-jre {
+  &:before {
+    content: unicode($b-jre); 
+  }
+}
+.b-apache {
+  &:before {
+    content: unicode($b-apache); 
+  }
+}
+.b-tomcat {
+  &:before {
+    content: unicode($b-tomcat); 
+  }
+}
+.b-elastic {
+  &:before {
+    content: unicode($b-elastic); 
+  }
+}
+.b-elasticsearch {
+  &:before {
+    content: unicode($b-elasticsearch); 
+  }
+}
+.b-artifactory {
+  &:before {
+    content: unicode($b-artifactory); 
   }
 }
 

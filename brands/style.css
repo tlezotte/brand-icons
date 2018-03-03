@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?oen9lg');
-  src:  url('fonts/brands.eot?oen9lg#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?oen9lg') format('truetype'),
-    url('fonts/brands.woff?oen9lg') format('woff'),
-    url('fonts/brands.svg?oen9lg#brands') format('svg');
+  src:  url('fonts/brands.eot?kpusk9');
+  src:  url('fonts/brands.eot?kpusk9#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?kpusk9') format('truetype'),
+    url('fonts/brands.woff?kpusk9') format('woff'),
+    url('fonts/brands.svg?kpusk9#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -59,4 +59,31 @@
 }
 .b-oracle:before {
   content: "\e90b";
+}
+.b-solr:before {
+  content: "\e90c";
+}
+.b-java:before {
+  content: "\e90d";
+}
+.b-jdk:before {
+  content: "\e90d";
+}
+.b-jre:before {
+  content: "\e90d";
+}
+.b-apache:before {
+  content: "\e90e";
+}
+.b-tomcat:before {
+  content: "\e90f";
+}
+.b-elastic:before {
+  content: "\e910";
+}
+.b-elasticsearch:before {
+  content: "\e911";
+}
+.b-artifactory:before {
+  content: "\e912";
 }
