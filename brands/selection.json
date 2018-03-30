@@ -18,7 +18,10 @@
         "grid": 0,
         "tags": [
           "pivotaltracker"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -52,7 +55,10 @@
         "grid": 0,
         "tags": [
           "statuscake"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -83,7 +89,12 @@
         "grid": 0,
         "tags": [
           "splunk"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -124,7 +135,18 @@
         "grid": 0,
         "tags": [
           "redhat"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -172,7 +194,18 @@
         "grid": 0,
         "tags": [
           "googlecloud"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -220,7 +253,18 @@
         "grid": 0,
         "tags": [
           "mailchimp"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": [
+            {},
+            {},
+            {},
+            {},
+            {},
+            {},
+            {}
+          ]
+        }
       },
       "attrs": [
         {},
@@ -260,7 +304,10 @@
         "grid": 0,
         "tags": [
           "jira"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -291,7 +338,10 @@
         "grid": 0,
         "tags": [
           "pma"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -325,7 +375,10 @@
         "grid": 0,
         "tags": [
           "monyog"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -359,7 +412,10 @@
         "grid": 0,
         "tags": [
           "mariadb"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -393,7 +449,10 @@
           "mysql"
         ],
         "isMulticolor": false,
-        "isMulticolor2": false
+        "isMulticolor2": false,
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -427,7 +486,10 @@
         "grid": 0,
         "tags": [
           "oracle"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -462,7 +524,9 @@
         "tags": [
           "solr"
         ],
-        "colorPermutations": {}
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -497,7 +561,9 @@
         "tags": [
           "java"
         ],
-        "colorPermutations": {}
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -533,7 +599,9 @@
         "tags": [
           "apache"
         ],
-        "colorPermutations": {}
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -568,7 +636,9 @@
         "tags": [
           "tomcat"
         ],
-        "colorPermutations": {}
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -603,7 +673,9 @@
         "tags": [
           "elastic"
         ],
-        "colorPermutations": {}
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -638,7 +710,9 @@
         "tags": [
           "elasticsearch"
         ],
-        "colorPermutations": {}
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": []
+        }
       },
       "attrs": [],
       "properties": {
@@ -668,7 +742,12 @@
         "grid": 0,
         "tags": [
           "artifactory"
-        ]
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": [
+            {}
+          ]
+        }
       },
       "attrs": [
         {}
@@ -683,6 +762,41 @@
       "setIdx": 0,
       "setId": 0,
       "iconIdx": 18
+    },
+    {
+      "icon": {
+        "paths": [
+          "M0 187.4l367.2-50.6v354.8h-367.2v-304.2zM0 836.6l367.2 50.6v-350.4h-367.2v299.8zM407.6 892.6l488.4 67.4v-423.2h-488.4v355.8zM407.6 131.4v360.2h488.4v-427.6l-488.4 67.4z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "width": 896,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "windows"
+        ],
+        "colorPermutations": {
+          "12112112111431431431898989196969619797971": [
+            {}
+          ]
+        }
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 36,
+        "id": 20,
+        "name": "windows",
+        "prevSize": 32,
+        "code": 59667
+      },
+      "setIdx": 0,
+      "setId": 0,
+      "iconIdx": 19
     }
   ],
   "height": 1024,

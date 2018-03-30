@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'brands';
-  src:  url('#{$icomoon-font-path}/brands.eot?kpusk9');
-  src:  url('#{$icomoon-font-path}/brands.eot?kpusk9#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/brands.ttf?kpusk9') format('truetype'),
-    url('#{$icomoon-font-path}/brands.woff?kpusk9') format('woff'),
-    url('#{$icomoon-font-path}/brands.svg?kpusk9#brands') format('svg');
+  src:  url('#{$icomoon-font-path}/brands.eot?ucm2lk');
+  src:  url('#{$icomoon-font-path}/brands.eot?ucm2lk#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/brands.ttf?ucm2lk') format('truetype'),
+    url('#{$icomoon-font-path}/brands.woff?ucm2lk') format('woff'),
+    url('#{$icomoon-font-path}/brands.svg?ucm2lk#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -133,6 +133,11 @@
 .b-artifactory {
   &:before {
     content: unicode($b-artifactory); 
+  }
+}
+.b-windows {
+  &:before {
+    content: unicode($b-windows); 
   }
 }
 

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?kpusk9');
-  src:  url('fonts/brands.eot?kpusk9#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?kpusk9') format('truetype'),
-    url('fonts/brands.woff?kpusk9') format('woff'),
-    url('fonts/brands.svg?kpusk9#brands') format('svg');
+  src:  url('fonts/brands.eot?ucm2lk');
+  src:  url('fonts/brands.eot?ucm2lk#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?ucm2lk') format('truetype'),
+    url('fonts/brands.woff?ucm2lk') format('woff'),
+    url('fonts/brands.svg?ucm2lk#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -86,4 +86,7 @@
 }
 .b-artifactory:before {
   content: "\e912";
+}
+.b-windows:before {
+  content: "\e913";
 }
