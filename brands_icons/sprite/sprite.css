@@ -103,4 +103,14 @@
   height: 32px;
   background-position: -144px -48px;
 }
+.b-wordpress {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -48px;
+}
+.b-kibana {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -48px;
+}
 
