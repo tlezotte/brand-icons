@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: 'brands';
-  src:  url('#{$icomoon-font-path}/brands.eot?79puz6');
-  src:  url('#{$icomoon-font-path}/brands.eot?79puz6#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/brands.ttf?79puz6') format('truetype'),
-    url('#{$icomoon-font-path}/brands.woff?79puz6') format('woff'),
-    url('#{$icomoon-font-path}/brands.svg?79puz6#brands') format('svg');
+  src:  url('#{$icomoon-font-path}/brands.eot?qdqm8a');
+  src:  url('#{$icomoon-font-path}/brands.eot?qdqm8a#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/brands.ttf?qdqm8a') format('truetype'),
+    url('#{$icomoon-font-path}/brands.woff?qdqm8a') format('woff'),
+    url('#{$icomoon-font-path}/brands.svg?qdqm8a#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -148,6 +148,21 @@
 .b-kibana {
   &:before {
     content: unicode($b-kibana); 
+  }
+}
+.b-monit {
+  &:before {
+    content: unicode($b-monit); 
+  }
+}
+.b-mmonit {
+  &:before {
+    content: unicode($b-mmonit); 
+  }
+}
+.b-jenkins {
+  &:before {
+    content: unicode($b-jenkins); 
   }
 }
 

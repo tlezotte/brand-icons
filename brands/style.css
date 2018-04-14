@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?79puz6');
-  src:  url('fonts/brands.eot?79puz6#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?79puz6') format('truetype'),
-    url('fonts/brands.woff?79puz6') format('woff'),
-    url('fonts/brands.svg?79puz6#brands') format('svg');
+  src:  url('fonts/brands.eot?qdqm8a');
+  src:  url('fonts/brands.eot?qdqm8a#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?qdqm8a') format('truetype'),
+    url('fonts/brands.woff?qdqm8a') format('woff'),
+    url('fonts/brands.svg?qdqm8a#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -95,4 +95,13 @@
 }
 .b-kibana:before {
   content: "\e915";
+}
+.b-monit:before {
+  content: "\e916";
+}
+.b-mmonit:before {
+  content: "\e916";
+}
+.b-jenkins:before {
+  content: "\e917";
 }
