@@ -2,10 +2,20 @@
 
 ## Latest Version: **v0.6.0**
 
+### Three ways to use
+```html
+<!-- Brand Icons -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@0.6/style.css">
+```
 
 ```html
-<!-- Brand Icons from CDN -->
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@0.6/style.css">
+<!-- Brand SVG Sprite -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@0.6/sprite/sprite.css">
+```
+
+```html
+<!-- Brand Images in PDF, PNG and SVG format -->
+<img src="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@0.6/img/PNG/apache.png">
 ```
 
 <br>
