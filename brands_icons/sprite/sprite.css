@@ -48,79 +48,89 @@
   height: 32px;
   background-position: -384px 0;
 }
-.b-mariadb {
+.b-oracle {
   width: 32px;
   height: 32px;
   background-position: -432px 0;
 }
-.b-mysql {
+.b-solr {
   width: 32px;
   height: 32px;
   background-position: -480px 0;
 }
-.b-oracle {
+.b-nutch {
   width: 32px;
   height: 32px;
   background-position: -528px 0;
 }
-.b-solr {
+.b-java {
   width: 32px;
   height: 32px;
   background-position: -576px 0;
 }
-.b-java {
+.b-apache {
   width: 32px;
   height: 32px;
   background-position: -624px 0;
 }
-.b-apache {
-  width: 18px;
-  height: 32px;
-  background-position: -672px 0;
-}
 .b-tomcat {
   width: 32px;
   height: 32px;
-  background-position: -720px 0;
+  background-position: -672px 0;
 }
 .b-elastic {
   width: 32px;
   height: 32px;
-  background-position: 0 -48px;
+  background-position: -720px 0;
 }
 .b-elasticsearch {
   width: 32px;
   height: 32px;
-  background-position: -48px -48px;
+  background-position: 0 -48px;
 }
 .b-artifactory {
   width: 32px;
   height: 32px;
-  background-position: -96px -48px;
+  background-position: -48px -48px;
 }
 .b-windows {
   width: 28px;
   height: 32px;
-  background-position: -144px -48px;
+  background-position: -96px -48px;
 }
 .b-wordpress {
   width: 32px;
   height: 32px;
-  background-position: -192px -48px;
+  background-position: -144px -48px;
 }
 .b-kibana {
   width: 32px;
   height: 32px;
-  background-position: -240px -48px;
+  background-position: -192px -48px;
 }
 .b-monit {
   width: 40px;
   height: 32px;
-  background-position: -288px -48px;
+  background-position: -240px -48px;
 }
 .b-jenkins {
   width: 32px;
   height: 32px;
+  background-position: -288px -48px;
+}
+.b-ansible {
+  width: 32px;
+  height: 32px;
   background-position: -336px -48px;
+}
+.b-mysql {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -48px;
+}
+.b-mariadb {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -48px;
 }
 
