@@ -1,4 +1,4 @@
-# brands-icons
+# brand-icons
 
 ## Latest Version: **v0.6.0**
 
@@ -10,7 +10,7 @@
 
 <br>
 
-## Available Fonts: **v0.6.0**
+## Included Fonts: **v0.6.0**
 
 ![](img/PNG/ansible.png) 
 
