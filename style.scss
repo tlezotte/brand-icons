@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?5jq0fu');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?5jq0fu#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?5jq0fu') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?5jq0fu') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?5jq0fu##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?1v1kzs');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?1v1kzs#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?1v1kzs') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?1v1kzs') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?1v1kzs##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -169,6 +169,11 @@
 .b-mariadb {
   &:before {
     content: $b-mariadb; 
+  }
+}
+.b-nginx {
+  &:before {
+    content: $b-nginx; 
   }
 }
 

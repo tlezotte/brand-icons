@@ -1,8 +1,12 @@
 # brand-icons
 
+### Total Images: 27 images
+
 [![](https://data.jsdelivr.com/v1/package/gh/tlezotte/brand-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/brand-icons)
 
-## Latest Version: **v0.6.0**
+<br>
+
+## Latest Version: **v0.6.1** - 1 image
 
 ### Three ways to use
 ```html
@@ -21,6 +25,47 @@
 ```
 
 <br>
+<br>
+
+## Previous Versions
+
+### **v0.6.1** - 1 image
+
+### **v0.6.0** - 26 images 
+
+<br>
+
+### Three ways to use
+
+##### Replace `<version>` with desired version
+
+```html
+<!-- victr: Icon Font -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@<version>/style.min.css">
+```
+
+```html
+<!-- victr: SVG Sprite -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@<version>/sprite/sprite.min.css">
+```
+
+```html
+<!-- victr: Images in PDF, PNG and SVG format -->
+<img src="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@<version>/img/PNG/apache.png">
+```
+
+<br>
+<br>
+
+## Included Images: **v0.6.1**
+
+![](img/PNG/nginx.png) 
+
+Icon Font: `<i class="brands b-nginx"></i>`
+
+SVG Sprite: `<svg class="brands b-nginx"><use xlink:href="#b-nginx"></use></svg>`
+
+---
 
 ## Included Images: **v0.6.0**
 
