@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?1v1kzs');
-  src:  url('fonts/brands.eot?1v1kzs#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?1v1kzs') format('truetype'),
-    url('fonts/brands.woff?1v1kzs') format('woff'),
-    url('fonts/brands.svg?1v1kzs#brands') format('svg');
+  src:  url('fonts/brands.eot?1zfeya');
+  src:  url('fonts/brands.eot?1zfeya#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?1zfeya') format('truetype'),
+    url('fonts/brands.woff?1zfeya') format('woff'),
+    url('fonts/brands.svg?1zfeya#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -113,4 +113,13 @@
 }
 .b-nginx:before {
   content: "\e907";
+}
+.b-tierpoint:before {
+  content: "\e90b";
+}
+.b-slack:before {
+  content: "\e90c";
+}
+.b-matomo:before {
+  content: "\e913";
 }
