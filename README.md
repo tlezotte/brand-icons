@@ -1,12 +1,12 @@
 # brand-icons
 
-### Total Images: 27 images
+### Total Images: 28 images
 
 [![](https://data.jsdelivr.com/v1/package/gh/tlezotte/brand-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/brand-icons)
 
 <br>
 
-## Latest Version: **v0.6.1** - 1 image
+## Latest Version: **v0.6.2** - 1 image
 
 ### Three ways to use
 ```html
@@ -40,22 +40,32 @@
 ##### Replace `<version>` with desired version
 
 ```html
-<!-- victr: Icon Font -->
+<!-- Brand: Icon Font -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@<version>/style.min.css">
 ```
 
 ```html
-<!-- victr: SVG Sprite -->
+<!-- Brand: SVG Sprite -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@<version>/sprite/sprite.min.css">
 ```
 
 ```html
-<!-- victr: Images in PDF, PNG and SVG format -->
+<!-- Brand: Images in PDF, PNG and SVG format -->
 <img src="https://cdn.jsdelivr.net/gh/tlezotte/brand-icons@<version>/img/PNG/apache.png">
 ```
 
 <br>
 <br>
+
+## Included Images: **v0.6.2**
+
+![](img/PNG/matomo.png) 
+
+Icon Font: `<i class="brands b-matomo"></i>`
+
+SVG Sprite: `<svg class="brands b-matomo"><use xlink:href="#b-matomo"></use></svg>`
+
+---
 
 ## Included Images: **v0.6.1**
 
