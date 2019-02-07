@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?1zfeya');
-  src:  url('fonts/brands.eot?1zfeya#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?1zfeya') format('truetype'),
-    url('fonts/brands.woff?1zfeya') format('woff'),
-    url('fonts/brands.svg?1zfeya#brands') format('svg');
+  src:  url('fonts/brands.eot?mp798');
+  src:  url('fonts/brands.eot?mp798#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?mp798') format('truetype'),
+    url('fonts/brands.woff?mp798') format('woff'),
+    url('fonts/brands.svg?mp798#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -122,4 +122,7 @@
 }
 .b-matomo:before {
   content: "\e913";
+}
+.b-centos:before {
+  content: "\e91e";
 }

@@ -6,7 +6,7 @@
 
 <br>
 
-## Latest Version: **v0.6.2** - 1 image
+## Latest Version: **v0.6.3** - 1 image
 
 ### Three ways to use
 ```html
@@ -28,6 +28,8 @@
 <br>
 
 ## Previous Versions
+
+### **v0.6.2** - 1 image
 
 ### **v0.6.1** - 1 image
 
@@ -56,6 +58,16 @@
 
 <br>
 <br>
+
+## Included Images: **v0.6.3**
+
+![](img/PNG/centos.png) 
+
+Icon Font: `<i class="brands b-centos"></i>`
+
+SVG Sprite: `<svg class="brands b-centos"><use xlink:href="#b-centos"></use></svg>`
+
+---
 
 ## Included Images: **v0.6.2**
 
