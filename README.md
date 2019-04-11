@@ -1,12 +1,12 @@
 # brand-icons
 
-### Total Images: 28 images
+### Total Images: 32 images
 
 [![](https://data.jsdelivr.com/v1/package/gh/tlezotte/brand-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/brand-icons)
 
 <br>
 
-## Latest Version: **v0.6.3** - 1 image
+## Latest Version: **v0.6.4** - 3 image
 
 ### Three ways to use
 ```html
@@ -28,6 +28,8 @@
 <br>
 
 ## Previous Versions
+
+### **v0.6.3** - 1 image
 
 ### **v0.6.2** - 1 image
 
@@ -58,6 +60,32 @@
 
 <br>
 <br>
+
+## Included Images: **v0.6.4**
+
+![](img/PNG/slack.png) 
+
+Icon Font: `<i class="brands b-slack"></i>`
+
+SVG Sprite: `<svg class="brands b-slack"><use xlink:href="#b-slack"></use></svg>`
+
+---
+
+![](img/PNG/rlang.png) 
+
+Icon Font: `<i class="brands b-rlang"></i>`
+
+SVG Sprite: `<svg class="brands b-rlang"><use xlink:href="#b-rlang"></use></svg>`
+
+---
+
+![](img/PNG/tierpoint.png) 
+
+Icon Font: `<i class="brands b-tierpoint"></i>`
+
+SVG Sprite: `<svg class="brands b-tierpoint"><use xlink:href="#b-tierpoint"></use></svg>`
+
+---
 
 ## Included Images: **v0.6.3**
 

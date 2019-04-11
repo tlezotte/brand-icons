@@ -138,24 +138,29 @@
   height: 32px;
   background-position: -480px -48px;
 }
-.b-tierpoint {
+.b-matomo {
   width: 32px;
   height: 32px;
   background-position: -528px -48px;
 }
-.b-slack {
+.b-centos {
   width: 32px;
   height: 32px;
   background-position: -576px -48px;
 }
-.b-matomo {
+.b-slack {
   width: 32px;
   height: 32px;
   background-position: -624px -48px;
 }
-.b-centos {
+.b-tierpoint {
   width: 32px;
   height: 32px;
   background-position: -672px -48px;
+}
+.b-rlang {
+  width: 41px;
+  height: 32px;
+  background-position: 0 -96px;
 }
 

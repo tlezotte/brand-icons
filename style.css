@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?mp798');
-  src:  url('fonts/brands.eot?mp798#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?mp798') format('truetype'),
-    url('fonts/brands.woff?mp798') format('woff'),
-    url('fonts/brands.svg?mp798#brands') format('svg');
+  src:  url('fonts/brands.eot?zarcu3');
+  src:  url('fonts/brands.eot?zarcu3#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?zarcu3') format('truetype'),
+    url('fonts/brands.woff?zarcu3') format('woff'),
+    url('fonts/brands.svg?zarcu3#brands') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -114,15 +114,18 @@
 .b-nginx:before {
   content: "\e907";
 }
-.b-tierpoint:before {
+.b-matomo:before {
+  content: "\e913";
+}
+.b-centos:before {
   content: "\e90b";
 }
 .b-slack:before {
   content: "\e90c";
 }
-.b-matomo:before {
-  content: "\e913";
-}
-.b-centos:before {
+.b-tierpoint:before {
   content: "\e91e";
+}
+.b-rlang:before {
+  content: "\e91f";
 }
