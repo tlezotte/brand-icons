@@ -6,7 +6,7 @@
 
 <br>
 
-## Latest Version: **v0.6.5** - 1 image update
+## Latest Version: **v0.6.6** - redcap image update
 
 ### Three ways to use
 ```html
@@ -28,6 +28,8 @@
 <br>
 
 ## Previous Versions
+
+### **v0.6.5** - redcap image update
 
 ### **v0.6.4** - 3 image
 
