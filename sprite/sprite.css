@@ -163,4 +163,94 @@
   height: 32px;
   background-position: 0 -96px;
 }
+.b-azure {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -96px;
+}
+.b-aws {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -96px;
+}
+.b-composer {
+  width: 32px;
+  height: 32px;
+  background-position: -192px -96px;
+}
+.b-daybreak {
+  width: 32px;
+  height: 32px;
+  background-position: -240px -96px;
+}
+.b-docker {
+  width: 32px;
+  height: 32px;
+  background-position: -288px -96px;
+}
+.b-gitlab {
+  width: 32px;
+  height: 32px;
+  background-position: -336px -96px;
+}
+.b-netezza {
+  width: 32px;
+  height: 32px;
+  background-position: -384px -96px;
+}
+.b-outlook {
+  width: 32px;
+  height: 32px;
+  background-position: -432px -96px;
+}
+.b-planview {
+  width: 32px;
+  height: 32px;
+  background-position: -480px -96px;
+}
+.b-sendgrid {
+  width: 32px;
+  height: 32px;
+  background-position: -528px -96px;
+}
+.b-shrine {
+  width: 32px;
+  height: 32px;
+  background-position: -576px -96px;
+}
+.b-thousandeyes {
+  width: 32px;
+  height: 32px;
+  background-position: -624px -96px;
+}
+.b-accellion {
+  width: 32px;
+  height: 32px;
+  background-position: -672px -96px;
+}
+.b-box {
+  width: 32px;
+  height: 32px;
+  background-position: -720px -96px;
+}
+.b-f5 {
+  width: 32px;
+  height: 32px;
+  background-position: 0 -144px;
+}
+.b-twilio {
+  width: 32px;
+  height: 32px;
+  background-position: -48px -144px;
+}
+.b-stonebranch {
+  width: 32px;
+  height: 32px;
+  background-position: -96px -144px;
+}
+.b-xmatters {
+  width: 32px;
+  height: 32px;
+  background-position: -144px -144px;
+}
 

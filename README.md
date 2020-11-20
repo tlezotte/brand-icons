@@ -1,12 +1,12 @@
 # brand-icons
 
-### Total Images: 32 images
+### Total Images: 48 images
 
 [![](https://data.jsdelivr.com/v1/package/gh/tlezotte/brand-icons/badge)](https://www.jsdelivr.com/package/gh/tlezotte/brand-icons)
 
 <br>
 
-## Latest Version: **v0.6.6** - redcap image update
+## Latest Version: **v0.6.7** - 16 images
 
 ### Three ways to use
 ```html
@@ -28,6 +28,8 @@
 <br>
 
 ## Previous Versions
+
+### **v0.6.6** - redcap image update
 
 ### **v0.6.5** - redcap image update
 
@@ -64,6 +66,152 @@
 
 <br>
 <br>
+
+## Included Images: **v0.6.7**
+
+![](img/PNG/azure.png) 
+
+Icon Font: `<i class="brands b-azure"></i>`
+
+SVG Sprite: `<svg class="brands b-azure"><use xlink:href="#b-azure"></use></svg>`
+
+---
+
+![](img/PNG/aws.png) 
+
+Icon Font: `<i class="brands b-aws"></i>`
+
+SVG Sprite: `<svg class="brands b-aws"><use xlink:href="#b-aws"></use></svg>`
+
+---
+
+![](img/PNG/composer.png) 
+
+Icon Font: `<i class="brands b-composer"></i>`
+
+SVG Sprite: `<svg class="brands b-composer"><use xlink:href="#b-composer"></use></svg>`
+
+---
+
+![](img/PNG/daybreak.png) 
+
+Icon Font: `<i class="brands b-daybreak"></i>`
+
+SVG Sprite: `<svg class="brands b-daybreak"><use xlink:href="#b-daybreak"></use></svg>`
+
+---
+
+![](img/PNG/docker.png) 
+
+Icon Font: `<i class="brands b-docker"></i>`
+
+SVG Sprite: `<svg class="brands b-docker"><use xlink:href="#b-docker"></use></svg>`
+
+---
+
+![](img/PNG/gitlab.png) 
+
+Icon Font: `<i class="brands b-gitlab"></i>`
+
+SVG Sprite: `<svg class="brands b-gitlab"><use xlink:href="#b-gitlab"></use></svg>`
+
+---
+
+![](img/PNG/netezza.png) 
+
+Icon Font: `<i class="brands b-netezza"></i>`
+
+SVG Sprite: `<svg class="brands b-netezza"><use xlink:href="#b-netezza"></use></svg>`
+
+---
+
+![](img/PNG/outlook.png) 
+
+Icon Font: `<i class="brands b-outlook"></i>`
+
+SVG Sprite: `<svg class="brands b-outlook"><use xlink:href="#b-outlook"></use></svg>`
+
+---
+
+![](img/PNG/planview.png) 
+
+Icon Font: `<i class="brands b-planview"></i>`
+
+SVG Sprite: `<svg class="brands b-planview"><use xlink:href="#b-planview"></use></svg>`
+
+---
+
+![](img/PNG/sendgrid.png) 
+
+Icon Font: `<i class="brands b-sendgrid"></i>`
+
+SVG Sprite: `<svg class="brands b-sendgrid"><use xlink:href="#b-sendgrid"></use></svg>`
+
+---
+
+![](img/PNG/shrine.png) 
+
+Icon Font: `<i class="brands b-shrine"></i>`
+
+SVG Sprite: `<svg class="brands b-shrine"><use xlink:href="#b-shrine"></use></svg>`
+
+---
+
+![](img/PNG/thousandeyes.png) 
+
+Icon Font: `<i class="brands b-thousandeyes"></i>`
+
+SVG Sprite: `<svg class="brands b-thousandeyes"><use xlink:href="#b-thousandeyes"></use></svg>`
+
+---
+
+![](img/PNG/accellion.png) 
+
+Icon Font: `<i class="brands b-accellion"></i>`
+
+SVG Sprite: `<svg class="brands b-accellion"><use xlink:href="#b-accellion"></use></svg>`
+
+---
+
+![](img/PNG/box.png) 
+
+Icon Font: `<i class="brands b-box"></i>`
+
+SVG Sprite: `<svg class="brands b-box"><use xlink:href="#b-box"></use></svg>`
+
+---
+
+![](img/PNG/f5.png) 
+
+Icon Font: `<i class="brands b-f5"></i>`
+
+SVG Sprite: `<svg class="brands b-f5"><use xlink:href="#b-f5"></use></svg>`
+
+---
+
+![](img/PNG/twilio.png) 
+
+Icon Font: `<i class="brands b-twilio"></i>`
+
+SVG Sprite: `<svg class="brands b-twilio"><use xlink:href="#b-twilio"></use></svg>`
+
+---
+
+![](img/PNG/stonebranch.png) 
+
+Icon Font: `<i class="brands b-stonebranch"></i>`
+
+SVG Sprite: `<svg class="brands b-stonebranch"><use xlink:href="#b-stonebranch"></use></svg>`
+
+---
+
+![](img/PNG/xmatters.png) 
+
+Icon Font: `<i class="brands b-xmatters"></i>`
+
+SVG Sprite: `<svg class="brands b-xmatters"><use xlink:href="#b-xmatters"></use></svg>`
+
+---
 
 ## Included Images: **v0.6.4**
 

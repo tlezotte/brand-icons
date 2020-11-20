@@ -1,18 +1,19 @@
 @font-face {
   font-family: 'brands';
-  src:  url('fonts/brands.eot?xjgugq');
-  src:  url('fonts/brands.eot?xjgugq#iefix') format('embedded-opentype'),
-    url('fonts/brands.ttf?xjgugq') format('truetype'),
-    url('fonts/brands.woff?xjgugq') format('woff'),
-    url('fonts/brands.svg?xjgugq#brands') format('svg');
+  src:  url('fonts/brands.eot?56itm5');
+  src:  url('fonts/brands.eot?56itm5#iefix') format('embedded-opentype'),
+    url('fonts/brands.ttf?56itm5') format('truetype'),
+    url('fonts/brands.woff?56itm5') format('woff'),
+    url('fonts/brands.svg?56itm5#brands') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
-.brands {
+[class^="b-"], [class*=" b-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'brands' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -128,4 +129,58 @@
 }
 .b-rlang:before {
   content: "\e91f";
+}
+.b-azure:before {
+  content: "\e920";
+}
+.b-aws:before {
+  content: "\e921";
+}
+.b-composer:before {
+  content: "\e922";
+}
+.b-daybreak:before {
+  content: "\e923";
+}
+.b-docker:before {
+  content: "\e924";
+}
+.b-gitlab:before {
+  content: "\e925";
+}
+.b-netezza:before {
+  content: "\e926";
+}
+.b-outlook:before {
+  content: "\e927";
+}
+.b-planview:before {
+  content: "\e928";
+}
+.b-sendgrid:before {
+  content: "\e929";
+}
+.b-shrine:before {
+  content: "\e92a";
+}
+.b-thousandeyes:before {
+  content: "\e92b";
+}
+.b-accellion:before {
+  content: "\e92c";
+}
+.b-box:before {
+  content: "\e92d";
+}
+.b-f5:before {
+  content: "\e92e";
+}
+.b-twilio:before {
+  content: "\e92f";
+}
+.b-stonebranch:before {
+  content: "\e930";
+}
+.b-xmatters:before {
+  content: "\e931";
 }

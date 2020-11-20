@@ -2,19 +2,20 @@
 
 @font-face {
   font-family: '#{$icomoon-font-family}';
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xjgugq');
-  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?xjgugq#iefix') format('embedded-opentype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?xjgugq') format('truetype'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?xjgugq') format('woff'),
-    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?xjgugq##{$icomoon-font-family}') format('svg');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?56itm5');
+  src:  url('#{$icomoon-font-path}/#{$icomoon-font-family}.eot?56itm5#iefix') format('embedded-opentype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.ttf?56itm5') format('truetype'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.woff?56itm5') format('woff'),
+    url('#{$icomoon-font-path}/#{$icomoon-font-family}.svg?56itm5##{$icomoon-font-family}') format('svg');
   font-weight: normal;
   font-style: normal;
+  font-display: block;
 }
 
-.brands {
+[class^="b-"], [class*=" b-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: '#{$icomoon-font-family}' !important;
-  speak: none;
+  speak: never;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -199,6 +200,96 @@
 .b-rlang {
   &:before {
     content: $b-rlang; 
+  }
+}
+.b-azure {
+  &:before {
+    content: $b-azure; 
+  }
+}
+.b-aws {
+  &:before {
+    content: $b-aws; 
+  }
+}
+.b-composer {
+  &:before {
+    content: $b-composer; 
+  }
+}
+.b-daybreak {
+  &:before {
+    content: $b-daybreak; 
+  }
+}
+.b-docker {
+  &:before {
+    content: $b-docker; 
+  }
+}
+.b-gitlab {
+  &:before {
+    content: $b-gitlab; 
+  }
+}
+.b-netezza {
+  &:before {
+    content: $b-netezza; 
+  }
+}
+.b-outlook {
+  &:before {
+    content: $b-outlook; 
+  }
+}
+.b-planview {
+  &:before {
+    content: $b-planview; 
+  }
+}
+.b-sendgrid {
+  &:before {
+    content: $b-sendgrid; 
+  }
+}
+.b-shrine {
+  &:before {
+    content: $b-shrine; 
+  }
+}
+.b-thousandeyes {
+  &:before {
+    content: $b-thousandeyes; 
+  }
+}
+.b-accellion {
+  &:before {
+    content: $b-accellion; 
+  }
+}
+.b-box {
+  &:before {
+    content: $b-box; 
+  }
+}
+.b-f5 {
+  &:before {
+    content: $b-f5; 
+  }
+}
+.b-twilio {
+  &:before {
+    content: $b-twilio; 
+  }
+}
+.b-stonebranch {
+  &:before {
+    content: $b-stonebranch; 
+  }
+}
+.b-xmatters {
+  &:before {
+    content: $b-xmatters; 
   }
 }
 
