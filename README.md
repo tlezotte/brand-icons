@@ -29,9 +29,9 @@
 
 ## Previous Versions
 
-### **v0.6.6** - redcap image update
+### **v0.6.6** - red hat image update
 
-### **v0.6.5** - redcap image update
+### **v0.6.5** - red hat image update
 
 ### **v0.6.4** - 3 image
 
